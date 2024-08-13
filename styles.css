@@ -139,7 +139,17 @@ img {
 }
 
 .sec3-p1 {
-    color: #1F2937;
-    font-size: 36px;
+    color: #36404c;
+    font-size: 34px;
     font-style: italic;
+    margin-bottom: 0px;
+}
+
+.sec3-p2 {
+    font-size: 24px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: flex-end;
+    color: #252f3d;
+    font-weight: bold;
 }
