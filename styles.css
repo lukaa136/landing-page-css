@@ -26,6 +26,7 @@ a {
     flex-direction: column;
     padding-left: 150px;
     padding-right: 20px;
+    margin-bottom: 90px;
 }
 
 img {
@@ -94,4 +95,34 @@ img {
     flex-direction: column;
     padding: 20px;
     margin: 20px;
+}
+
+.section2 {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sec2-h2 {
+    font-size: 36px;
+    color: #1F2937;
+    padding: 30px;
+}
+
+.boxx {
+    border: solid #3882F6;
+    border-radius: 10px;
+    padding: 60px;
+}
+
+.sec2-content2 {
+    display: flex;
+    gap: 30px;
+    padding-right: 280px;
+    padding-left: 280px;
+}
+
+.box p {
+    color: grey;
 }
