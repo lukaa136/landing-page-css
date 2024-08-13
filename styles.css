@@ -153,3 +153,52 @@ img {
     color: #252f3d;
     font-weight: bold;
 }
+
+.section4 {
+    background-color: white;
+    display: flex;
+    flex: 1;
+}
+
+.sec4-container {
+    background-color: #3882F6;
+    margin: 80px;
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 15px;   
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+}
+
+.sec4-h4 {
+    font-size: 24px;
+    margin-bottom: 0px;
+    display: flex;
+    flex: 3 1 auto;
+}
+
+.sec4-p {
+    margin-top: 0px;
+}
+
+.sec4-signup {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec4-content {
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+
+.sec4-signup .signup-buttom {
+    width: 120px;
+    height: 50px;
+}
